@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{148DCEAE-0263-412A-8E88-BAC94B136A67}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BlackJack___SIO</RootNamespace>
+    <AssemblyName>BlackJack - SIO</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form_inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_inicio.Designer.cs">
+      <DependentUpon>Form_inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_tablero_1pl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_tablero_1pl.Designer.cs">
+      <DependentUpon>Form_tablero_1pl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_tablero_2pl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_tablero_2pl.Designer.cs">
+      <DependentUpon>Form_tablero_2pl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form_inicio.resx">
+      <DependentUpon>Form_inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_tablero_1pl.resx">
+      <DependentUpon>Form_tablero_1pl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_tablero_2pl.resx">
+      <DependentUpon>Form_tablero_2pl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blackJack_fondo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\table1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tablero_1_pl.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tablero_2_pl.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AceSpade.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EightDiamond.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FiveHeart.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FourClub.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JackSpade.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KingDiamond.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NightClub.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QueenHeart.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SevenSpade.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SixSpade.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TenDiamond.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ThreeSpade.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TwoHeart.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TwoSpade.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\AceClub.jpg" />
+    <Content Include="Resources\AceDiamond.jpg" />
+    <Content Include="Resources\AceHeart.jpg" />
+    <Content Include="Resources\EightClub.jpg" />
+    <Content Include="Resources\EightHeart.jpg" />
+    <Content Include="Resources\EightSpade.jpg" />
+    <Content Include="Resources\FiveClub.jpg" />
+    <Content Include="Resources\FiveDiamond.jpg" />
+    <Content Include="Resources\FiveSpade.jpg" />
+    <Content Include="Resources\FourDiamond.jpg" />
+    <Content Include="Resources\FourHeart.jpg" />
+    <Content Include="Resources\FourSpade.jpg" />
+    <Content Include="Resources\JackClub.jpg" />
+    <Content Include="Resources\JackDiamond.jpg" />
+    <Content Include="Resources\JackHeart.jpg" />
+    <Content Include="Resources\KingClub.jpg" />
+    <Content Include="Resources\KingHeart.jpg" />
+    <Content Include="Resources\KingSpade.jpg" />
+    <Content Include="Resources\NightDiamond.jpg" />
+    <Content Include="Resources\NightHeart.jpg" />
+    <Content Include="Resources\NightSpade.jpg" />
+    <Content Include="Resources\QueenClub.jpg" />
+    <Content Include="Resources\QueenDiamond.jpg" />
+    <Content Include="Resources\QueenSpade.jpg" />
+    <Content Include="Resources\SevenClub.jpg" />
+    <Content Include="Resources\SevenDiamond.jpg" />
+    <Content Include="Resources\SevenHeart.jpg" />
+    <Content Include="Resources\SixClub.jpg" />
+    <Content Include="Resources\SixDiamond.jpg" />
+    <Content Include="Resources\SixHeart.jpg" />
+    <Content Include="Resources\TenClub.jpg" />
+    <Content Include="Resources\TenHeart.jpg" />
+    <Content Include="Resources\TenSpade.jpg" />
+    <Content Include="Resources\ThreeClub.jpg" />
+    <Content Include="Resources\ThreeDiamond.jpg" />
+    <Content Include="Resources\ThreeHeart.jpg" />
+    <Content Include="Resources\TwoClub.jpg" />
+    <Content Include="Resources\TwoDiamond.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,58 @@
+C:\Users\assesin95\source\repos\BlackJack - SIO\BlackJack - SIO\bin\Debug\BlackJack - SIO.exe.config
+C:\Users\assesin95\source\repos\BlackJack - SIO\BlackJack - SIO\bin\Debug\BlackJack - SIO.exe
+C:\Users\assesin95\source\repos\BlackJack - SIO\BlackJack - SIO\bin\Debug\BlackJack - SIO.pdb
+C:\Users\assesin95\source\repos\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack - SIO.csprojResolveAssemblyReference.cache
+C:\Users\assesin95\source\repos\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack___SIO.Form_inicio.resources
+C:\Users\assesin95\source\repos\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack___SIO.Properties.Resources.resources
+C:\Users\assesin95\source\repos\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack - SIO.csproj.GenerateResource.Cache
+C:\Users\assesin95\source\repos\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack - SIO.csproj.CoreCompileInputs.cache
+C:\Users\assesin95\source\repos\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack - SIO.exe
+C:\Users\assesin95\source\repos\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack - SIO.pdb
+C:\Users\assesin95\source\repos\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack___SIO.Form_tablero_1pl.resources
+C:\Users\assesin95\Desktop\BlackJack - SIO\BlackJack - SIO\bin\Debug\BlackJack - SIO.exe.config
+C:\Users\assesin95\Desktop\BlackJack - SIO\BlackJack - SIO\bin\Debug\BlackJack - SIO.exe
+C:\Users\assesin95\Desktop\BlackJack - SIO\BlackJack - SIO\bin\Debug\BlackJack - SIO.pdb
+C:\Users\assesin95\Desktop\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack - SIO.csprojResolveAssemblyReference.cache
+C:\Users\assesin95\Desktop\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack___SIO.Form_inicio.resources
+C:\Users\assesin95\Desktop\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack___SIO.Form_tablero_1pl.resources
+C:\Users\assesin95\Desktop\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack___SIO.Properties.Resources.resources
+C:\Users\assesin95\Desktop\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack - SIO.csproj.GenerateResource.Cache
+C:\Users\assesin95\Desktop\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack - SIO.csproj.CoreCompileInputs.cache
+C:\Users\assesin95\Desktop\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack - SIO.exe
+C:\Users\assesin95\Desktop\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack - SIO.pdb
+C:\Users\w\Desktop\BlackJack - SIO\BlackJack - SIO\bin\Debug\BlackJack - SIO.exe.config
+C:\Users\w\Desktop\BlackJack - SIO\BlackJack - SIO\bin\Debug\BlackJack - SIO.exe
+C:\Users\w\Desktop\BlackJack - SIO\BlackJack - SIO\bin\Debug\BlackJack - SIO.pdb
+C:\Users\w\Desktop\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack - SIO.csprojResolveAssemblyReference.cache
+C:\Users\w\Desktop\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack___SIO.Form_inicio.resources
+C:\Users\w\Desktop\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack___SIO.Form_tablero_1pl.resources
+C:\Users\w\Desktop\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack___SIO.Properties.Resources.resources
+C:\Users\w\Desktop\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack - SIO.csproj.GenerateResource.Cache
+C:\Users\w\Desktop\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack - SIO.csproj.CoreCompileInputs.cache
+C:\Users\w\Desktop\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack - SIO.exe
+C:\Users\w\Desktop\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack - SIO.pdb
+C:\Users\w\Desktop\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack___SIO.Form_tablero_2pl.resources
+C:\Users\ASUS\Desktop\BlackJack - SIO\BlackJack - SIO\bin\Debug\BlackJack - SIO.exe.config
+C:\Users\ASUS\Desktop\BlackJack - SIO\BlackJack - SIO\bin\Debug\BlackJack - SIO.exe
+C:\Users\ASUS\Desktop\BlackJack - SIO\BlackJack - SIO\bin\Debug\BlackJack - SIO.pdb
+C:\Users\ASUS\Desktop\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack - SIO.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack___SIO.Form_inicio.resources
+C:\Users\ASUS\Desktop\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack___SIO.Form_tablero_1pl.resources
+C:\Users\ASUS\Desktop\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack___SIO.Form_tablero_2pl.resources
+C:\Users\ASUS\Desktop\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack___SIO.Properties.Resources.resources
+C:\Users\ASUS\Desktop\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack - SIO.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack - SIO.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack - SIO.exe
+C:\Users\ASUS\Desktop\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack - SIO.pdb
+C:\Users\ASUS\Desktop\Universidad\BlackJack - SIO\BlackJack - SIO\bin\Debug\BlackJack - SIO.exe.config
+C:\Users\ASUS\Desktop\Universidad\BlackJack - SIO\BlackJack - SIO\bin\Debug\BlackJack - SIO.exe
+C:\Users\ASUS\Desktop\Universidad\BlackJack - SIO\BlackJack - SIO\bin\Debug\BlackJack - SIO.pdb
+C:\Users\ASUS\Desktop\Universidad\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack - SIO.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Universidad\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack___SIO.Form_inicio.resources
+C:\Users\ASUS\Desktop\Universidad\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack___SIO.Form_tablero_1pl.resources
+C:\Users\ASUS\Desktop\Universidad\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack___SIO.Form_tablero_2pl.resources
+C:\Users\ASUS\Desktop\Universidad\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack___SIO.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Universidad\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack - SIO.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Universidad\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack - SIO.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Universidad\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack - SIO.exe
+C:\Users\ASUS\Desktop\Universidad\BlackJack - SIO\BlackJack - SIO\obj\Debug\BlackJack - SIO.pdb
